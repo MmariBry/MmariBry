@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MmariBry
+- 👋 Hi, I’m Bryson Mmari
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning bachelor in Information technology
 - 💞️ I’m looking to collaborate on developing systems abd software
